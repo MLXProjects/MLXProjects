@@ -2,9 +2,8 @@
 I'm Michael Jauregui, also known as MLXProjects. I'm a Junior Embedded Software Developer located at Valencia, Spain. 
 
 ## About me
-I have 2 years of professional experience in the embedded field.  
-I like working with displays and user interfaces, but also re-implementing software and optimizing legacy projects.  
-I get used to required languages & environments pretty quickly.
+I have 2 years of professional experience and specialize in working with user interfaces and display integrations, as well as refactoring and optimizing legacy software.  
+Highly adaptable, with a proven ability to quickly master new programming languages and technical environments.
 
 ## Development skills
 - C
