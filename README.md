@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello!
+I'm Michael Jauregui, also known as MLXProjects. I'm a Junior Embedded Software Developer located at Valencia, Spain. 
 
-<!--
-**MLXProjects/MLXProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I have 2 years of professional experience in the embedded field.  
+I like working with displays and user interfaces, but also re-implementing software and optimizing legacy projects.  
+I get used to required languages & environments pretty quickly.
 
-Here are some ideas to get you started:
+## Development skills
+- C
+- .NET Framework
+- Python
+- Shell/Batch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional experience
+### Embedded software developer at Saitek Control, Buenos Aires, Argentina (2023-2025)
+- Updated & extended systems used by elevator displays (Linux SBCs like Raspberry Pi)
+- Wrote elevator-related firmware for boards using Microchip PICs (18F & dsPIC)
+- Developed multiple internal tools to ease testing & allow customizing preexisting products
+- Maintained & improved legacy codebases
+- Redacted code-base documentation for projects & product manuals for end-users
+
+## My projects
+- Heavy contribution to [Libaroma](https://github.com/MLXProjects/libaroma): UI toolkit for embedded Linux, allows to create nice looking applications without depending on a desktop environment.
+- Miscellaneous [UI demos & examples](https://github.com/MLXProjects/examples) made using Libaroma
+- [Android ROM development](https://xdaforums.com/t/rom-port-beta-lineageos-11-for-pocket-plus-s5301-coriplus.4102615/) for legacy devices along with [recovery porting](https://xdaforums.com/t/how-to-install-twrp-3-6-on-galaxy-chat-without-a-pc-terminal-emulator.4781591/).
+
+## Contact
+- [LinkedIn](https://linkedin.com/in/mlxprojects)
+- [Telegram](https://t.me/MLXProjects)
+- [E-mail](mailto:maicolinux4@gmail.com)
